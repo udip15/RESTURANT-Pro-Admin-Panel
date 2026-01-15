@@ -9,8 +9,7 @@ RestaurantPro Suite is a comprehensive and modern digital dashboard designed to 
 
 
 # Clone the repository
-git clone https://github.com/udip15/RESTURANT-Pro-Admin-Panel
-.git
+git clone https://github.com/udip15/RESTURANT-Pro-Admin-Panel.git
 
 # Navigate into the folder
 cd confession-site
